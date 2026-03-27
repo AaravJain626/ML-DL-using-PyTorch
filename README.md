@@ -10,3 +10,4 @@ The first file "PyTorch_Basics.ipynb" contains the basic features of PyTorch in 
 * Indexing
 * NumPy and PyTorch
 * Reshaping,stacking,squeezing tensors
+## Part 4 of the Repo(Computer_visio.ipynb) contains a model trained on Fashion MNSIT Dataset using torch vision
